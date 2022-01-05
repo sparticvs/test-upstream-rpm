@@ -7,9 +7,6 @@ License:        Public-Domain
 URL:     https://github.com/sparticvs/test-upstream       
 Source0: https://github.com/sparticvs/test-upstream/archive/refs/tags/v%{version}.tar.gz 
 
-BuildRequires:  
-Requires:       
-
 %description
 
 
