@@ -1,5 +1,5 @@
 Name:           test-upstream
-Version:        1.0.0
+Version:        1.0.1
 Release:        1%{?dist}
 Summary:        A test SPEC for soot
 
@@ -31,5 +31,8 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Mon Jan 10 2022 "Charles `sparticvs` Timko <sparticvs@popebp.com>" - 1.0.1-1
+- "Updating to v1.0.1"
+
 * Wed Jan  5 2022 Charles Timko <ctimko@redhat.com>
 - 
